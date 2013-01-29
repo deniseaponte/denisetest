@@ -1,4 +1,4 @@
--*made change to WHERE LOCATION_SYMBOL IN ( &BRANCH); from where location_name in (&branch);
+-*made change to WHERE LOCATION_SYMBOL IN ( &BRANCH); from WHERE LOCATION_NAME IN ( &BRANCH);
 SET WEBARCHIVE=OFF
 -* File attendance_metrics_summary.fex
 -*--------------------------------------------------------------------
